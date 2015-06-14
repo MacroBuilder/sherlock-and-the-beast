@@ -1,4 +1,4 @@
-"""Having trouble with large values of 'dig'"""
+"""Having trouble with dig values >= 10000."""
 
 def beast(dig):
     maximum = -1

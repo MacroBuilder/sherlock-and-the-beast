@@ -1,3 +1,5 @@
+"""Having trouble with large values of 'dig'"""
+
 def beast(dig):
     maximum = -1
     for a in range(1, dig + 1):
